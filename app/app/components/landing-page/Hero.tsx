@@ -8,13 +8,13 @@ export default function Hero() {
     <div className="flex items-center h-screen">
       <div className="w-full flex flex-col gap-2">
         <h1 className="text-5xl font-bold text-white leading-16">
-          Seus projetos e redes sociais em um unico link
+          Seus projetos e redes sociais em um único link
         </h1>
         <h2 className="text-xl leading-6">
           Crie sua própria página de projetos e compartilhe eles com o mundo.
-        </h2>
         <br />
         Acompanhe o engajamento com Analytics e cliques
+        </h2>
         <div className="flex items-center gap-2 w-full mt-8">
           <span className="text-white text-xl">urlbase.com</span>
 
